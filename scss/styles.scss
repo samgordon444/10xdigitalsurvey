@@ -9,10 +9,16 @@ body {
 
 .background-x {
     position: fixed;
-    top: -75px;
-    left: -180px;
+    top: -180px;
+    left: -240px;
     opacity: 0.05;
     z-index: -1000;
+    width:80%;
+    @media (max-width:800px) {
+        top:80px;
+        left:-40px;
+        width:100%;
+    }
 }
 
 img {
@@ -33,9 +39,11 @@ section {
 
 .header {
     margin: 300px auto;
-
     @media (max-width:800px) {
         margin: 120px auto;
+    }
+    img {
+        width:70%;
     }
 }
 
@@ -128,6 +136,11 @@ h3 {
     font-size: 3rem;
     line-height: 3.75rem;
     letter-spacing: -2px;
+    @media (max-width: 800px) {
+        font-size: 2.25rem;
+        line-height:2.75rem;
+        letter-spacing: -1px;
+    }
 }
 
 .chart {
