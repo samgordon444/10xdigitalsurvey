@@ -21,38 +21,38 @@ body {
       left: -100px;
       top: -50px; } }
 
-/* line 23, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 24, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 img {
   width: 100%; }
 
-/* line 27, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 28, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .row {
   margin: 120px auto; }
 
-/* line 31, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 32, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 section {
   margin: 240px auto; }
 
-/* line 35, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 36, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .center {
   text-align: center; }
 
-/* line 39, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 40, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .header {
   margin: 300px auto; }
   @media (max-width: 800px) {
-    /* line 39, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 40, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .header {
       margin: 120px auto; } }
-  /* line 44, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 47, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .header img {
     width: 100%; }
     @media (max-width: 800px) {
-      /* line 44, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+      /* line 47, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
       .header img {
         width: 70%; } }
 
-/* line 52, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 56, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 h1,
 h2,
 h3,
@@ -62,57 +62,57 @@ h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 600; }
 
-/* line 62, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 66, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 h2 {
   font-size: 0.75rem; }
 
-/* line 66, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 70, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 h3 {
   font-size: 1.8rem;
   line-height: 2.2rem;
   font-weight: 300; }
 
-/* line 72, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 76, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .linklist {
   list-style: none;
   margin: 0;
   padding: 0; }
-  /* line 77, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 81, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .linklist li {
     padding: 0;
     margin: 40px auto;
     vertical-align: middle; }
-    /* line 82, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 86, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .linklist li a {
       color: white;
       text-decoration: none; }
-      /* line 86, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+      /* line 90, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
       .linklist li a img {
         padding-right: 16px;
         height: 30px;
         width: auto;
         vertical-align: middle; }
-      /* line 93, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+      /* line 97, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
       .linklist li a span {
         margin-left: 16px;
         transition: all 0.25s;
         opacity: 0.5; }
-      /* line 100, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+      /* line 104, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
       .linklist li a:hover span {
         margin-left: 30px;
         opacity: 1; }
 
-/* line 109, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 113, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .section-head {
   position: relative;
   border: 1px solid white; }
-  /* line 113, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 117, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .section-head:after {
     content: '';
     display: block;
     width: 80%;
     padding-bottom: 100%; }
-  /* line 120, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 124, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .section-head h2 {
     position: absolute;
     width: 100%;
@@ -120,12 +120,12 @@ h3 {
     top: 50%;
     transform: translateY(-100%); }
   @media (max-width: 800px) {
-    /* line 109, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 113, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .section-head {
       max-width: 160px;
       margin-bottom: 80px; } }
 
-/* line 134, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 138, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .stat {
   margin: 0;
   font-family: 'Karla';
@@ -134,22 +134,22 @@ h3 {
   line-height: 3.75rem;
   letter-spacing: -2px; }
   @media (max-width: 800px) {
-    /* line 134, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 138, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .stat {
       font-size: 2.25rem;
       line-height: 2.75rem;
       letter-spacing: -1px; } }
 
-/* line 148, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 153, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .chart {
   display: block;
   width: 100%;
   margin: 80px auto; }
-  /* line 153, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 158, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .chart img {
     width: 100%; }
 
-/* line 158, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 163, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .skillset {
   list-style: none;
   margin: 80px auto;
@@ -157,38 +157,38 @@ h3 {
   display: flex;
   justify-content: space-around; }
   @media (max-width: 400px) {
-    /* line 158, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 163, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .skillset {
       flex-direction: column;
       margin: 40px auto; } }
-  /* line 170, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 175, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .skillset li {
     display: inline;
     list-style: none;
     flex-basis: 30%;
     margin: 0; }
-    /* line 176, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 181, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .skillset li .skillicon {
       display: block;
       font-size: 4rem;
       line-height: 6rem; }
     @media (max-width: 400px) {
-      /* line 170, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+      /* line 175, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
       .skillset li {
         margin: 40px auto; } }
 
-/* line 188, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 193, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .layoutgrid {
   margin: 80px auto;
   width: 100%; }
-  /* line 192, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 197, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .layoutgrid .layoutgrid-row {
     padding: 6% 10%;
     border: 1px solid #444;
     text-align: left;
     position: relative;
     margin: 10px auto; }
-    /* line 199, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 204, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .layoutgrid .layoutgrid-row:after {
       content: '';
       position: absolute;
@@ -197,7 +197,7 @@ h3 {
       border-left: 1px solid #444;
       width: 25%;
       height: 100%; }
-    /* line 209, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 214, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .layoutgrid .layoutgrid-row span {
       right: 0;
       display: block;
@@ -206,59 +206,59 @@ h3 {
       transform: translateY(-50%);
       right: 9%; }
 
-/* line 220, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 225, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .adobelogos {
   list-style: none;
   margin: 40px 0;
   padding: 0;
   display: flex;
   justify-content: space-between; }
-  /* line 227, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 232, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .adobelogos li {
     display: inline-block;
     width: 25%; }
 
-/* line 233, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 238, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .cards {
   display: flex;
   flex-wrap: wrap; }
-  /* line 237, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 242, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .cards .card {
     align-self: stretch;
     padding: 30px;
     margin-bottom: 30px;
     border: 1px solid #444; }
-    /* line 243, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 248, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .cards .card h4 {
       margin-top: 0;
       margin-bottom: 0; }
-    /* line 248, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+    /* line 253, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
     .cards .card p {
       margin-bottom: 0;
       font-size: 0.875rem; }
 
-/* line 254, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 260, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .bigcard {
   padding: 30px;
   border: 1px solid #444; }
-  /* line 257, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 264, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .bigcard a {
     color: #fff; }
-  /* line 260, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 268, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .bigcard h4 {
     margin-top: 1rem;
     margin-bottom: 0;
     font-size: 1.625rem;
     line-height: 2rem; }
-  /* line 267, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 275, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .bigcard p {
     margin-bottom: 0;
     font-size: 0.875rem; }
-  /* line 271, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+  /* line 280, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
   .bigcard .content {
-    padding: 0 10px 40px 10px; }
+    padding: 10px 10px 40px 10px; }
 
-/* line 275, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
+/* line 285, /Users/gordon/OneDrive - Colle McVoy/0_CLIENTS/10TD/Digital Survey 2019/10tddigitalsurvey/scss/styles.scss */
 .smalltype {
   margin-top: 0;
   font-size: 0.75rem;
